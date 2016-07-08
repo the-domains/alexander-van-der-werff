@@ -1,0 +1,28 @@
+name: Alexander van der Werff
+favicon: null
+layout_spectrum: 0.100232002325356
+typography_spectrum: 0.13203552039340138
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6060480438172817
+  lightness: 0.817174194380641
+  saturation: 0.7272107610478997
+  rhythmicContrast: 0.7015579347498715
+purpose: []
